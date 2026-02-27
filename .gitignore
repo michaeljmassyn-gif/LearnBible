@@ -1,0 +1,9 @@
+# Claude Code memory (local only)
+.claude/
+
+# Vercel
+.vercel
+
+# OS
+.DS_Store
+Thumbs.db
