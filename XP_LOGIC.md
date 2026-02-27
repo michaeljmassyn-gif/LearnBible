@@ -1,6 +1,6 @@
 # XP Logic
 
-How experience points are calculated, how levels work, and how difficulty modes affect earnings.
+How experience points are calculated, how levels work, and how difficulty modes affect earnings. ✨
 
 ---
 
